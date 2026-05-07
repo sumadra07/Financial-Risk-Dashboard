@@ -7,8 +7,7 @@ This project features a comprehensive **Financial Risk Dashboard** created in Mi
 ----------
 
 ### 🔗 Quick Links
-- **[Live Dashboard Preview](<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/fc8a9e63e3c2ea9d/IQRbVp_4RPuqR4ZihMVwpDu-AeuZNlYHQPSyzMtmyQ4OfK0?wdAllowInteractivity=False&ActiveCell='Dashboard'!AV43&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edaebf=rslc0"></iframe>)** 
-- **[Dataset (CSV)](./Financial_Risk_Data.csv)**
+- **[Live Dashboard Preview](<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/fc8a9e63e3c2ea9d/IQRbVp_4RPuqR4ZihMVwpDu-AeuZNlYHQPSyzMtmyQ4OfK0?wdAllowInteractivity=False&ActiveCell='Dashboard'!AV43&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edaebf=rslc0"></iframe>)**
 - **[LinkedIn Profile](www.linkedin.com/in/vivek-singh-044b5527b)**
 - -----
 
